@@ -55,24 +55,26 @@ class ChooseModulesPage extends React.Component {
                 </div>
 
                 <div className='row'>
-                  <a href='javascript:;' className='modules_font modules_item' style={{marginRight:'1%'}}>
-                    <img className='' src={edit_icon} style={{display:'block',width: '30px',margin: '1.5em 0 2em'}}/>
+                  <a href='javascript:;' className='modules_font modules_item' style={{background:'#c30909'}}>
+                    <img className='' src={edit_icon} style={{}}/>
                     <span>OA系统</span>
                   </a>
-                  <a href='javascript:;' className='modules_font modules_item' style={{marginRight:'1%'}}>
-                    <img className='' src={edit_icon} style={{display:'block',width: '30px',margin: '1.5em 0 2em'}}/>
+                  <a href='javascript:;' className='modules_font modules_item' style={{background:'#e29b1a'}}>
+                    <img className='' src={edit_icon} style={{}}/>
                     <span>矫正系统</span>
                   </a>
-                  <a href='javascript:;' className='modules_font modules_item' style={{marginRight:'1%'}}>
-                    <img className='' src={edit_icon} style={{display:'block',width: '30px',margin: '1.5em 0 2em'}}/>
+                  <a href='javascript:;' className='modules_font modules_item' style={{background:'#3dd218'}}>
+                    <img className='' src={edit_icon} style={{}}/>
                     <span>档案管理</span>
                   </a>
-                  <a href='javascript:;' className='modules_font modules_item' style={{marginRight:'1%'}}>
-                    <img className='' src={edit_icon} style={{display:'block',width: '30px',margin: '1.5em 0 2em'}}/>
+                  <a href='javascript:;' className='modules_font modules_item' style={{marginRight:'1%',background:'#1fe6c1'}}>
+                    <img className='' src={edit_icon} style={{}}/>
                     <span>电子通讯录</span>
                   </a>
-                  <a href='javascript:;' className='modules_font modules_item' style={{marginRight:'1%'}}>
-                    <img className='' src={edit_icon} style={{display:'block',width: '30px',margin: '1.5em 0 2em'}}/>
+                </div>
+                <div className='row'>
+                  <a href='javascript:;' className='modules_font modules_item' style={{background:'#2ad0d8'}}>
+                    <img className='' src={edit_icon} style={{}}/>
                     <span>电子通讯录</span>
                   </a>
                 </div>
