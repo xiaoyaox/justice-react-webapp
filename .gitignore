@@ -1,0 +1,28 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+**/*/node_modules
+
+/bower_components
+**/*/bower_components
+
+# testing
+/coverage
+**/*/coverage
+
+# production
+**/*/build
+/build
+
+# production
+**/*/dist
+/dist
+
+# misc
+.DS_Store
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+

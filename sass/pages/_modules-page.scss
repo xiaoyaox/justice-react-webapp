@@ -1,0 +1,41 @@
+@charset 'UTF-8';
+
+
+.modules_backgroundImg{
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  background: #fff;
+  width:100%;
+  height:100%;
+  background-image: url(../images/modules_img/modules_bg.png);
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+.modules_content{
+  width:55%;
+  margin:10% auto;
+
+}
+.modules_font{
+  color:#fff;
+  text-decoration:none;
+  display: inline-block;
+  span{
+    color:#fff;
+  }
+}
+a.modules_font:hover{
+  color:#fff;
+  text-decoration:none;
+  display: inline-block;
+}
+.modules-header{
+
+}
+.modules_item{
+  width:24%;
+  height:50px;
+  text-align:center;
+}
